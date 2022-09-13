@@ -1,0 +1,14 @@
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\bin\Debug\netcoreapp3.1\ACT_1_POO.exe
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\bin\Debug\netcoreapp3.1\ACT_1_POO.deps.json
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\bin\Debug\netcoreapp3.1\ACT_1_POO.runtimeconfig.json
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\bin\Debug\netcoreapp3.1\ACT_1_POO.runtimeconfig.dev.json
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\bin\Debug\netcoreapp3.1\ACT_1_POO.dll
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\bin\Debug\netcoreapp3.1\ACT_1_POO.pdb
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\obj\Debug\netcoreapp3.1\ACT_1_POO.csproj.AssemblyReference.cache
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\obj\Debug\netcoreapp3.1\ACT_1_POO.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\obj\Debug\netcoreapp3.1\ACT_1_POO.AssemblyInfoInputs.cache
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\obj\Debug\netcoreapp3.1\ACT_1_POO.AssemblyInfo.cs
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\obj\Debug\netcoreapp3.1\ACT_1_POO.csproj.CoreCompileInputs.cache
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\obj\Debug\netcoreapp3.1\ACT_1_POO.dll
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\obj\Debug\netcoreapp3.1\ACT_1_POO.pdb
+H:\UAA14_POO\ACT_1_POO\ACT_1_POO\obj\Debug\netcoreapp3.1\ACT_1_POO.genruntimeconfig.cache
