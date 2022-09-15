@@ -6,7 +6,7 @@ namespace ACT_1_POO
     {
         static void Main(string[] args)
         {
-            int average;
+            double average;
 
             string tp = "";
 
@@ -31,7 +31,25 @@ namespace ACT_1_POO
                 Hund[i].AfficheCaracteristiques();
             }
 
-            
+            average = Moyenne(Hund);
+            Console.WriteLine("La moyenne des âge est : " + average);
+
+            static double Moyenne(chien[] Hund)
+            {
+                double average = 0;
+                int somTotale = 0;
+                int age = 0;
+
+                for (int i = 0; i < Hund.Length; i++)
+                {
+                    age = Hund[i].Age();
+                    somTotale = somTotale + age;
+                }
+
+                average = (int)somTotale / Hund.Length;
+
+                return average;
+            }
         }
     }
 }

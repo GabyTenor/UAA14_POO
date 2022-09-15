@@ -23,15 +23,11 @@ namespace ACT_1_POO
                 Console.WriteLine("Nom : " + this._nom + " - Age : " + this._age + " - Race : " + this._race);         
         }
 
-        static void Moyenne(out int average, chien[] Hund)
+        public int Age()
         {
-            average = 0;
-            int somTotale;
+            int age = (int)this._age;
 
-            for (int i = 0; i < Hund.Length; i++)
-            {
-                somTotale = somTotale + Hund[i]._age;
-            }
+            return age;
         }
     }
 }
