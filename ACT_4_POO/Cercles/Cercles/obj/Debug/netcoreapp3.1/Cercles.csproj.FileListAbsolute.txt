@@ -1,0 +1,14 @@
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\bin\Debug\netcoreapp3.1\Cercles.exe
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\bin\Debug\netcoreapp3.1\Cercles.deps.json
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\bin\Debug\netcoreapp3.1\Cercles.runtimeconfig.json
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\bin\Debug\netcoreapp3.1\Cercles.runtimeconfig.dev.json
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\bin\Debug\netcoreapp3.1\Cercles.dll
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\bin\Debug\netcoreapp3.1\Cercles.pdb
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\obj\Debug\netcoreapp3.1\Cercles.csproj.AssemblyReference.cache
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\obj\Debug\netcoreapp3.1\Cercles.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\obj\Debug\netcoreapp3.1\Cercles.AssemblyInfoInputs.cache
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\obj\Debug\netcoreapp3.1\Cercles.AssemblyInfo.cs
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\obj\Debug\netcoreapp3.1\Cercles.csproj.CoreCompileInputs.cache
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\obj\Debug\netcoreapp3.1\Cercles.dll
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\obj\Debug\netcoreapp3.1\Cercles.pdb
+H:\UAA14_POO\ACT_4_POO\Cercles\Cercles\obj\Debug\netcoreapp3.1\Cercles.genruntimeconfig.cache
