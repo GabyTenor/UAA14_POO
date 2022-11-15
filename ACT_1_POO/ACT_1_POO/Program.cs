@@ -31,8 +31,18 @@ namespace ACT_1_POO
                 Hund[i].AfficheCaracteristiques();
             }
 
+            for(int incre = 0; incre < Hund.Length - 1; incre++)
+            {
+                Hund[incre].Age += 1;
+            }
+
             average = Moyenne(Hund);
             Console.WriteLine("La moyenne des âge est : " + average);
+
+            for(int affiche = 0; affiche < Hund.Length; affiche++)
+            {
+                Hund[affiche].AfficheCaracteristiques();
+            }
 
             static double Moyenne(chien[] Hund)
             {
@@ -42,7 +52,7 @@ namespace ACT_1_POO
 
                 for (int i = 0; i < Hund.Length; i++)
                 {
-                    age = Hund[i].Age();
+                    age = (int)Hund[i].Age;
                     somTotale = somTotale + age;
                 }
 

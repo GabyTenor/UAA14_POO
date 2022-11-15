@@ -1,0 +1,14 @@
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\obj\Debug\netcoreapp3.1\Elephants.csproj.AssemblyReference.cache
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\obj\Debug\netcoreapp3.1\Elephants.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\obj\Debug\netcoreapp3.1\Elephants.AssemblyInfoInputs.cache
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\obj\Debug\netcoreapp3.1\Elephants.AssemblyInfo.cs
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\obj\Debug\netcoreapp3.1\Elephants.csproj.CoreCompileInputs.cache
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\bin\Debug\netcoreapp3.1\Elephants.exe
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\bin\Debug\netcoreapp3.1\Elephants.deps.json
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\bin\Debug\netcoreapp3.1\Elephants.runtimeconfig.json
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\bin\Debug\netcoreapp3.1\Elephants.runtimeconfig.dev.json
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\bin\Debug\netcoreapp3.1\Elephants.dll
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\bin\Debug\netcoreapp3.1\Elephants.pdb
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\obj\Debug\netcoreapp3.1\Elephants.dll
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\obj\Debug\netcoreapp3.1\Elephants.pdb
+H:\UAA14_POO\ACT_3_POO\Elephants\Elephants\obj\Debug\netcoreapp3.1\Elephants.genruntimeconfig.cache

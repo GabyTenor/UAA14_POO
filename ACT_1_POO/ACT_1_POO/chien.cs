@@ -22,12 +22,20 @@ namespace ACT_1_POO
         {
                 Console.WriteLine("Nom : " + this._nom + " - Age : " + this._age + " - Race : " + this._race);         
         }
-
-        public int Age()
+        public uint Age
         {
-            int age = (int)this._age;
-
-            return age;
+            get { return _age; }
+            set { _age = value; }
+        }
+        public string Nom
+        {
+            get { return _nom; }
+            set { _nom = value; }
+        }
+        public string Race
+        {
+            get { return _race; }
+            set { _race = value; }
         }
     }
 }
