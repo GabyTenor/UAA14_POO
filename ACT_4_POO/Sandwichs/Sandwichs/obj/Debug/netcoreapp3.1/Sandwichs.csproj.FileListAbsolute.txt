@@ -1,0 +1,14 @@
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\bin\Debug\netcoreapp3.1\Sandwichs.exe
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\bin\Debug\netcoreapp3.1\Sandwichs.deps.json
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\bin\Debug\netcoreapp3.1\Sandwichs.runtimeconfig.json
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\bin\Debug\netcoreapp3.1\Sandwichs.runtimeconfig.dev.json
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\bin\Debug\netcoreapp3.1\Sandwichs.dll
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\bin\Debug\netcoreapp3.1\Sandwichs.pdb
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\obj\Debug\netcoreapp3.1\Sandwichs.csproj.AssemblyReference.cache
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\obj\Debug\netcoreapp3.1\Sandwichs.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\obj\Debug\netcoreapp3.1\Sandwichs.AssemblyInfoInputs.cache
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\obj\Debug\netcoreapp3.1\Sandwichs.AssemblyInfo.cs
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\obj\Debug\netcoreapp3.1\Sandwichs.csproj.CoreCompileInputs.cache
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\obj\Debug\netcoreapp3.1\Sandwichs.dll
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\obj\Debug\netcoreapp3.1\Sandwichs.pdb
+H:\UAA14_POO\ACT_4_POO\Sandwichs\Sandwichs\obj\Debug\netcoreapp3.1\Sandwichs.genruntimeconfig.cache

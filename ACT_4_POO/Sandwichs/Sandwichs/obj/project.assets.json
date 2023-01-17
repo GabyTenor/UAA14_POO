@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\200198.asty-moulin\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\UAA14_POO\\ACT_4_POO\\Personne\\Personne\\Personne.csproj",
-      "projectName": "Personne",
-      "projectPath": "H:\\UAA14_POO\\ACT_4_POO\\Personne\\Personne\\Personne.csproj",
+      "projectUniqueName": "H:\\UAA14_POO\\ACT_4_POO\\Sandwichs\\Sandwichs\\Sandwichs.csproj",
+      "projectName": "Sandwichs",
+      "projectPath": "H:\\UAA14_POO\\ACT_4_POO\\Sandwichs\\Sandwichs\\Sandwichs.csproj",
       "packagesPath": "C:\\Users\\200198.asty-moulin\\.nuget\\packages\\",
-      "outputPath": "H:\\UAA14_POO\\ACT_4_POO\\Personne\\Personne\\obj\\",
+      "outputPath": "H:\\UAA14_POO\\ACT_4_POO\\Sandwichs\\Sandwichs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,15 +28,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,8 +47,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -59,6 +59,11 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }

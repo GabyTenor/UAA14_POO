@@ -1,0 +1,14 @@
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\bin\Debug\netcoreapp3.1\Heritage_Kot.exe
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\bin\Debug\netcoreapp3.1\Heritage_Kot.deps.json
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\bin\Debug\netcoreapp3.1\Heritage_Kot.runtimeconfig.json
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\bin\Debug\netcoreapp3.1\Heritage_Kot.runtimeconfig.dev.json
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\bin\Debug\netcoreapp3.1\Heritage_Kot.dll
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\bin\Debug\netcoreapp3.1\Heritage_Kot.pdb
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\obj\Debug\netcoreapp3.1\Heritage_Kot.csproj.AssemblyReference.cache
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\obj\Debug\netcoreapp3.1\Heritage_Kot.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\obj\Debug\netcoreapp3.1\Heritage_Kot.AssemblyInfoInputs.cache
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\obj\Debug\netcoreapp3.1\Heritage_Kot.AssemblyInfo.cs
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\obj\Debug\netcoreapp3.1\Heritage_Kot.csproj.CoreCompileInputs.cache
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\obj\Debug\netcoreapp3.1\Heritage_Kot.dll
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\obj\Debug\netcoreapp3.1\Heritage_Kot.pdb
+H:\UAA14_POO\Heritage\Heritage_Kot\Heritage_Kot\obj\Debug\netcoreapp3.1\Heritage_Kot.genruntimeconfig.cache
