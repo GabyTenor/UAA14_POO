@@ -10,5 +10,12 @@ namespace ACT_6_Animaux
         {
 
         }
+
+        public string Purr()
+        {
+            string info = _name + " started to purr when he saw you";
+
+            return info;
+        }
     }
 }

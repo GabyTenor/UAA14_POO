@@ -25,6 +25,11 @@ namespace ACT_6_Animaux
         {
             string info = _name + "'s size is " + _size + " and was born in " + _bornDate.ToString("MM//dd//yyyy") + ". Its chip number is " + _chip;
 
+            if (_compAnimal)
+            {
+                info += ". He does competitions";
+            }
+
             return info;
         }
         public string Sleep()

@@ -11,5 +11,15 @@ namespace ACT_6_Animaux
 
         }
 
+        public string Jump()
+        {
+            Random rnd = new Random();
+            double jumpHeight = rnd.Next(1, 2);
+
+            string info = _name + "happyly jumped " + jumpHeight + " meter height when he saw you!!";
+
+            return info;
+        }
+
     }
 }

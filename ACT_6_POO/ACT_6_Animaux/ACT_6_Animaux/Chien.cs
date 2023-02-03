@@ -10,5 +10,12 @@ namespace ACT_6_Animaux
         {
 
         }
+
+        public string Bark()
+        {
+            string info = _name + " is barking at you!";
+
+            return info;
+        }
     }
 }

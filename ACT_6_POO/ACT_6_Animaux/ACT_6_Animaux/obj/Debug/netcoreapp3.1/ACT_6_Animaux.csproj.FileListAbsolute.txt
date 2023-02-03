@@ -1,0 +1,14 @@
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\bin\Debug\netcoreapp3.1\ACT_6_Animaux.exe
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\bin\Debug\netcoreapp3.1\ACT_6_Animaux.deps.json
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\bin\Debug\netcoreapp3.1\ACT_6_Animaux.runtimeconfig.json
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\bin\Debug\netcoreapp3.1\ACT_6_Animaux.runtimeconfig.dev.json
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\bin\Debug\netcoreapp3.1\ACT_6_Animaux.dll
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\bin\Debug\netcoreapp3.1\ACT_6_Animaux.pdb
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\obj\Debug\netcoreapp3.1\ACT_6_Animaux.csproj.AssemblyReference.cache
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\obj\Debug\netcoreapp3.1\ACT_6_Animaux.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\obj\Debug\netcoreapp3.1\ACT_6_Animaux.AssemblyInfoInputs.cache
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\obj\Debug\netcoreapp3.1\ACT_6_Animaux.AssemblyInfo.cs
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\obj\Debug\netcoreapp3.1\ACT_6_Animaux.csproj.CoreCompileInputs.cache
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\obj\Debug\netcoreapp3.1\ACT_6_Animaux.dll
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\obj\Debug\netcoreapp3.1\ACT_6_Animaux.pdb
+H:\UAA14_POO\ACT_6_POO\ACT_6_Animaux\ACT_6_Animaux\obj\Debug\netcoreapp3.1\ACT_6_Animaux.genruntimeconfig.cache
