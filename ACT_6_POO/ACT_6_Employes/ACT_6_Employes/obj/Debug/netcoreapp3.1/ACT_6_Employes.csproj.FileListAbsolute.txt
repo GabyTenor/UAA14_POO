@@ -1,0 +1,5 @@
+H:\UAA14_POO\ACT_6_POO\ACT_6_Employes\ACT_6_Employes\obj\Debug\netcoreapp3.1\ACT_6_Employes.csproj.AssemblyReference.cache
+H:\UAA14_POO\ACT_6_POO\ACT_6_Employes\ACT_6_Employes\obj\Debug\netcoreapp3.1\ACT_6_Employes.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14_POO\ACT_6_POO\ACT_6_Employes\ACT_6_Employes\obj\Debug\netcoreapp3.1\ACT_6_Employes.AssemblyInfoInputs.cache
+H:\UAA14_POO\ACT_6_POO\ACT_6_Employes\ACT_6_Employes\obj\Debug\netcoreapp3.1\ACT_6_Employes.AssemblyInfo.cs
+H:\UAA14_POO\ACT_6_POO\ACT_6_Employes\ACT_6_Employes\obj\Debug\netcoreapp3.1\ACT_6_Employes.csproj.CoreCompileInputs.cache

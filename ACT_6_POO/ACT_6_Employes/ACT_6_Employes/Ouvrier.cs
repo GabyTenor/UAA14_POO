@@ -12,7 +12,7 @@ namespace ACT_6_Employes
         public Ouvrier(int matricule, string nom, string prenom, DateTime dateDeNaissance, DateTime entree) : base(matricule, nom, prenom, dateDeNaissance)
         {
             this._entree = entree;
-            this._salaire = CalculeSalaire(); ;
+            this._salaire = CalculeSalaire(); 
         }
 
         public int CalculeSalaire()
@@ -34,7 +34,7 @@ namespace ACT_6_Employes
             return salaire;
         }
 
-        public string CaracteristiquesOuvrier()
+        public string Caracteristiques()
         {
             string info = Caracteristiques() + "\nSalaire : " + _salaire;
 

@@ -25,5 +25,12 @@ namespace ACT_6_Employes
 
             return salaire;
         }
+
+        public string CaracteristiquesDirecteur()
+        {
+            string info = Caracteristiques() + "\nSalaire : " + _salaire;
+
+            return info;
+        }
     }
 }
